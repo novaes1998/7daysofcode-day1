@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.corpo__pagina{
+
+    background-color: #008EAB;
+    margin-top: 15%;
+}
+
+.principal{
+
+    background-color: #00BBE0;
+    display: flex;
+    flex-direction: column;
+    margin: 0% 30% 0% 30%;
+    padding: 2%;
+    align-items: center;
+    border: 4px solid;
+    border-radius: 10px;
+    gap: 10px;
+    
+
+}
+
+.selecionar{
+
+    background-color: #FEDFE0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.resultado{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    align-items: center;
+    gap: 10px;
+        
+}
